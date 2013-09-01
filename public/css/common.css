@@ -1,4 +1,4 @@
-.navbar .nav> li > a.brand {
+.navbar .nav > li > a.brand {
     padding-left: 20px;
     margin-left: 0;
 }
@@ -10,8 +10,8 @@
 
 footer {
    position:fixed;
-   left:0px;
-   bottom:0px;
+   left:0;
+   bottom:0;
    height:30px;
    width:100%;
    background:#ddd;
