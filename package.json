@@ -33,12 +33,11 @@
     "forever": "latest",
     "mean-logger": "latest",
     "bower": "latest"
-  }
-},
-"devDependencies": {
-  "supertest": "latest",
-  "should": "latest",
-  "mocha": "latest",
-  "nodemon": "latest"
-  }
+  },
+  "devDependencies": {
+    "supertest": "latest",
+    "should": "latest",
+    "mocha": "latest",
+    "nodemon": "latest"
+    }
 }
