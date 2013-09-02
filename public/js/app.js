@@ -13,7 +13,8 @@ window.app =
 // bundling dependencies
 window.angular.module('ngff.controllers', [
   'ngff.controllers.header',
-  'ngff.controllers.index'
+  'ngff.controllers.index',
+  'ngff.controllers.nlf'
 ]);
 window.angular.module('ngff.services', [
   'ngff.services.global',
