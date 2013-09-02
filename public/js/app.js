@@ -16,5 +16,6 @@ window.angular.module('ngff.controllers', [
   'ngff.controllers.index'
 ]);
 window.angular.module('ngff.services', [
-  'ngff.services.global'
+  'ngff.services.global',
+  'ngff.services.nfl'
 ]);
